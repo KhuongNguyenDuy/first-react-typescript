@@ -1,0 +1,1 @@
+chua cac component dung chung cho ca he thong

@@ -1,0 +1,1 @@
+chua cac trang hien thi tren man hinh
