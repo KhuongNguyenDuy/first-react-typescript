@@ -1,0 +1,1 @@
+chua cac phan lien quan logic chinh redux
